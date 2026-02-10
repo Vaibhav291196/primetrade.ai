@@ -1,0 +1,149 @@
+Account,classification,freq
+0,Extreme Fear,55
+0,Extreme Greed,945
+0,Fear,2230
+0,Greed,298
+0,Neutral,64
+1,Extreme Fear,53
+1,Extreme Greed,688
+1,Fear,2556
+1,Greed,3194
+1,Neutral,251
+2,Extreme Greed,1
+2,Fear,1529
+2,Greed,544
+2,Neutral,599
+3,Extreme Fear,299
+3,Extreme Greed,6402
+3,Fear,1337
+3,Greed,2909
+3,Neutral,795
+4,Extreme Fear,36
+4,Extreme Greed,1384
+4,Fear,143
+4,Greed,328
+4,Neutral,830
+5,Extreme Greed,159
+5,Fear,168
+5,Greed,132
+5,Neutral,32
+6,Extreme Fear,143
+6,Extreme Greed,99
+6,Fear,987
+6,Greed,67
+6,Neutral,275
+7,Extreme Greed,201
+7,Fear,18
+7,Greed,16
+7,Neutral,2
+8,Extreme Greed,108
+8,Fear,71
+8,Greed,56
+8,Neutral,48
+9,Extreme Greed,18
+9,Fear,141
+9,Greed,773
+9,Neutral,25
+10,Extreme Fear,233
+10,Extreme Greed,2571
+10,Fear,1019
+10,Greed,2831
+10,Neutral,655
+11,Extreme Fear,211
+11,Extreme Greed,167
+11,Fear,834
+11,Greed,526
+11,Neutral,645
+12,Extreme Fear,69
+12,Extreme Greed,2185
+12,Fear,1050
+12,Greed,2347
+12,Neutral,780
+13,Extreme Fear,49
+13,Extreme Greed,181
+13,Fear,4274
+13,Greed,3511
+13,Neutral,2188
+14,Extreme Fear,20
+14,Extreme Greed,179
+14,Fear,217
+14,Greed,236
+14,Neutral,61
+15,Extreme Fear,77
+15,Extreme Greed,98
+15,Fear,336
+15,Greed,404
+15,Neutral,79
+16,Extreme Fear,23
+16,Extreme Greed,202
+16,Fear,460
+16,Greed,485
+16,Neutral,65
+17,Extreme Fear,86
+17,Extreme Greed,2361
+17,Fear,1725
+17,Greed,3197
+17,Neutral,1503
+18,Extreme Fear,26
+18,Extreme Greed,1
+18,Fear,40
+18,Greed,38
+18,Neutral,111
+19,Extreme Fear,93
+19,Extreme Greed,98
+19,Fear,1173
+19,Greed,1653
+19,Neutral,781
+20,Extreme Greed,56
+20,Fear,152
+20,Greed,524
+20,Neutral,543
+21,Extreme Fear,239
+21,Extreme Greed,2760
+21,Fear,1632
+21,Greed,5982
+21,Neutral,1785
+22,Extreme Greed,1549
+22,Fear,37
+22,Greed,1199
+22,Neutral,45
+23,Extreme Fear,230
+23,Extreme Greed,3497
+23,Fear,1676
+23,Greed,4040
+23,Neutral,3582
+24,Extreme Fear,4
+24,Extreme Greed,133
+24,Fear,108
+24,Greed,151
+24,Neutral,13
+25,Extreme Greed,146
+25,Fear,80
+25,Greed,214
+26,Extreme Fear,8
+26,Extreme Greed,2
+26,Fear,422
+26,Greed,4
+26,Neutral,52
+27,Extreme Fear,95
+27,Extreme Greed,1837
+27,Fear,2720
+27,Greed,4742
+27,Neutral,2805
+28,Extreme Fear,31
+28,Fear,851
+28,Neutral,314
+29,Extreme Fear,1407
+29,Fear,7257
+29,Greed,749
+29,Neutral,4269
+30,Extreme Fear,264
+30,Extreme Greed,275
+30,Fear,663
+30,Greed,442
+30,Neutral,333
+31,Extreme Fear,1660
+31,Extreme Greed,6090
+31,Fear,11409
+31,Greed,6900
+31,Neutral,8716
